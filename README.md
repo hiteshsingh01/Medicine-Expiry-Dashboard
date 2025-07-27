@@ -50,7 +50,7 @@ Medicine-Expiry-Dashboard/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/jayant77778/Medicine-Expiry-Dashboard.git
+git clone https://github.com/hiteshsingh01/Medicine-Expiry-Dashboard.git
 cd Medicine-Expiry-Dashboard
 ````
 
@@ -78,7 +78,7 @@ streamlit run main.py
 
 ## 🔗 GitHub Repository
 
-👉 [Click to view project on GitHub](https://github.com/jayant77778/Medicine-Expiry-Dashboard)
+👉 [Click to view project on GitHub](https://github.com/hiteshsingh01/Medicine-Expiry-Dashboard)
 
 ---
 
@@ -94,7 +94,7 @@ matplotlib
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn – Jayant Bhati](https://www.linkedin.com/in/jayantbhati77/)
+* 💼 [LinkedIn – Jayant Bhati](https://www.linkedin.com/in/hiteshsingh01/)
 
 ---
 
